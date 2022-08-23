@@ -7,7 +7,7 @@
 
 ## chara_id
 |图标|名字|id|
-|![1000](https://200git.github.io/UmamusumeFile/Images/chr_icon_1000.png))|空白/图标显示随机|1000|
+|![1000](https://200git.github.io/UmamusumeFile/Images/chr_icon_1000.png)|空白/图标显示随机|1000|
 |![1001](https://200git.github.io/UmamusumeFile/Images/chr_icon_1001.png)|特别周|1001|
 |![1002](https://200git.github.io/UmamusumeFile/Images/chr_icon_1002.png)|无声铃鹿|1002|
 |![1003](https://200git.github.io/UmamusumeFile/Images/chr_icon_1003.png)|东海帝皇|1003|
